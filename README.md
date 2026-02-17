@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Huzaifa</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan 🇵🇰</h3>
-<img align="right" alt="coding" width="350" 
-src="https://camo.githubusercontent.com/82d6c39835e07696750c7a3c63988c5babdcd8785e61793cff3c850c5d14d958/68747470733a2f2f63646e2e6f70656e6172742e61692f7075626c69736865642f794661334438645a6c5368494c4d4c4d7967626c2f6c425737573957525f2d48515a5f7261772e6a7067">
+<p align="center">
+  <img src="https://camo.githubusercontent.com/82d6c39835e07696750c7a3c63988c5babdcd8785e61793cff3c850c5d14d958/68747470733a2f2f63646e2e6f70656e6172742e61692f7075626c69736865642f794661334438645a6c5368494c4d4c4d7967626c2f6c425737573957525f2d48515a5f7261772e6a7067" width="400" style="border-radius: 15px;" />
+</p>
+
 ---
 
 ### 🚀 About Me
