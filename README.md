@@ -9,17 +9,17 @@
 ### 🚀 About Me
 
 - 🌱 I’m currently learning **JavaScript**
-- 
+  
 - 💻 I love working on **Frontend Projects**
-- 
+  
 - 🤝 I’m looking for help with Sir Umair
-- 
+  
 - 👨‍💻 All of my projects are available at github.com/muhammadhuzaifa1019
-- 
+  
 - 📫 How to reach me: **muhammadhuzaifa22056@gmail.com**
-- 
+  
 - ⚡ Fun fact: I love Coding 😎
-- 
+  
 ---
 
 ### 🛠️ Languages and Tools
